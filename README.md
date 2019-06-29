@@ -1,2 +1,3 @@
-# quantum_computing_numpy
+# Quantum Computing NumPy
+
 Numpy implementation of quantum computing code
